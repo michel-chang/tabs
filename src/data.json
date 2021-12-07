@@ -1,0 +1,31 @@
+[{
+    "id":"recAGJfiU4CeaV0HL",
+    "order":3,
+    "title":"Graphic/Web Designer",
+    "dates":"January 2004 - December 2009/ January 2018 - July 2019 ",
+    "duties":["AIP Barcelona - Master in Web Development",
+        "IED - Barcelona - Master in Interaction Design",
+        "ESPM - São Paulo - Bachelor in Graphic Design"],
+        "company":"Education"
+    },
+        
+        {
+            "id":"recIL6mJNfWObonls",
+            "order":2,
+            "title":"Software Skills",
+            "dates":" ",
+            "duties":["Adobe - Photoshop, Illustrator, InDesign, PremierPRO, After Effects, Wacom Tablet.",
+            "Figma, Marvel, Worpress, Prestashop, VSC, Sublime Text, Github",
+            "HTML, CSS, JavaScript, ReactJS, PHP, MySQL"
+            ],
+            "company":"Software Skills"
+            },
+            {
+                "id":"rec61x18GVY99hQq5",
+                "order":1,
+                "title":"Job Experience and Knowledge",
+                "dates":"January 2010 - Present",
+                "duties":["Graphic Design, Digital Marketing, Front-End, UX/UI, branding, Agile, Hand Drawing, 2D animation.",
+                    "Languages - Advanced English, Fluent Spanish, Native Portuguese "],
+                "company":"Job Experience and Knowledge"}
+            ]
